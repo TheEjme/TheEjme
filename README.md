@@ -13,9 +13,9 @@
 
 ### Мой инструментарий 🛠️
 
-[![My Skills](https://skillicons.dev/icons?i=ps,pr,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps,vscode&theme=dark)](https://skillicons.dev)
 
-**Adobe Photoshop** (Основной стек) • **Adobe Premiere** (Монтаж) • **VS Code** (Код)
+**Adobe Photoshop** (Основной стек) • **VS Code** (Если нужен какой-то код)
 
 ---
 
