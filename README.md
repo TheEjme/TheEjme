@@ -29,7 +29,7 @@
 
 ### Портфолио 🎨
 
-[![Behance](https://img.shields.io/badge/Behance-FFA057?style=for-the-badge&logo=Behance&logoColor=white)]()
+[![Behance](https://img.shields.io/badge/Behance-FFA057?style=for-the-badge&logo=Behance&logoColor=white)](https://www.behance.net/b64343db)
 
 **🎨Если и буду что-то выкладывать и чем-то делится с вами - буду это делать здесь**
 
