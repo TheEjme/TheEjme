@@ -24,10 +24,14 @@
 ### Связь со мной 💬
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ejme_)
-[![Behance](https://img.shields.io/badge/Behance-FFA057?style=for-the-badge&logo=Behance&logoColor=white)]()
 
 **❗Просьба писать что вы с Гитхаба, ибо мне часто приходят уведомления от мусорных ботов/взломанных аккаунтов людей❗**
 
+### Портфолио 🎨
+
+[![Behance](https://img.shields.io/badge/Behance-FFA057?style=for-the-badge&logo=Behance&logoColor=white)]()
+
+**🎨Если и буду что-то выкладывать - то сюда**
 ---
 ****
 
