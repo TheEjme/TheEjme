@@ -25,11 +25,11 @@
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ejme_)
 
-<span style="color:red"> Просьба писать, что вы с Гитхаба. Часто пишут боты, поэтому могу не сразу заметить сообщение! </span>
+> **❗Просьба писать, что вы с Гитхаба. Часто пишут боты, поэтому могу не сразу заметить сообщение!**
 
 [![Behance](https://img.shields.io/badge/Behance-FFA057?style=for-the-badge&logo=Behance&logoColor=white)](https://www.behance.net/b64343db)
 
-**🎨Если и буду что-то выкладывать и чем-то делится с вами - буду это делать здесь**
+> **🎨Если и буду что-то выкладывать и чем-то делится с вами - буду это делать здесь**
 
 ---
 ****
