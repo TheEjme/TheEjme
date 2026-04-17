@@ -13,7 +13,7 @@
 
 ---
 
-### Мои программы 🛠️
+### Софт который я использую🛠️
 
 [![My Skills](https://skillicons.dev/icons?i=ps,vscode&theme=dark)](https://skillicons.dev)
 
